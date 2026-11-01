@@ -29,7 +29,7 @@ const safe=u=>/^(https:\/\/|img\/)/.test(u||"")?esc(u):"#";
 const pic=p=>p.img?`<img src="${safe(p.img)}" alt="" loading="lazy">`:esc(p.e||"✨");
 const buyLink=p=>/^https:\/\//.test(p.l||"")?esc(p.l):`https://wa.me/${WA}?text=${encodeURIComponent(t("ord")+pn(p))}`;
 const all=()=>PRODUCTS.map((p,i)=>({p,i}));
-const card=({p,i})=>`<article class="p"><div class="pic" style="background:${p.k}">${pic(p)}<button class="heart ${fav.includes(p.id)?"on":""}" data-fav="${esc(p.id)}" aria-label="♥">♥</button></div><div class="info"><div class="name">${esc(pn(p))}</div><div class="price">${p.p} ${t("cur")}</div><a class="buy" href="${buyLink(p)}" target="_blank" rel="noopener">${t("buy")}</a></div></article>`;
+const card=({p,i})=>`<article class="p"><div class="pic" style="background:${p.k}">${pic(p)}<button class="heart ${fav.includes(p.id)?"on":""}" data-fav="${esc(p.id)}" aria-label="♥">♥</button></div><div class="info"><div class="name">${esc(pn(p))}</div>${p.d?`<div class="desc">${esc(p.d)}</div>`:""}<div class="price">${p.p} ${t("cur")}</div><a class="buy" href="${buyLink(p)}" target="_blank" rel="noopener">${t("buy")}</a></div></article>`;
 const fill=(id,a)=>$(id).innerHTML=a.length?a.map(card).join(""):`<div class="empty">${t("empty")}</div>`;
 function renderBlog(){
  $("blogList").innerHTML=posts.map(b=>{const x=b[lang]||b.ar;let d="";try{d=new Date(b.date).toLocaleDateString(lang==="ar"?"ar-MA":lang,{year:"numeric",month:"long",day:"numeric"})}catch(e){}
