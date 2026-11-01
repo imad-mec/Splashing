@@ -1,0 +1,50 @@
+[
+ {
+  "id": "1",
+  "date": "2026-11-01",
+  "ar": {
+   "t": "5 عادات يومية لبشرة مشرقة",
+   "d": "ترطيب منتظم، واقي شمس كل يوم، تنظيف لطيف ونوم كافٍ. الاستمرارية أهم من كثرة المنتجات."
+  },
+  "fr": {
+   "t": "5 habitudes pour une peau éclatante",
+   "d": "Hydratation régulière, protection solaire quotidienne, nettoyage doux et bon sommeil. La régularité compte plus que le nombre de produits."
+  },
+  "en": {
+   "t": "5 daily habits for glowing skin",
+   "d": "Regular moisturizing, daily sunscreen, gentle cleansing and enough sleep. Consistency matters more than the number of products."
+  }
+ },
+ {
+  "id": "2",
+  "date": "2026-11-01",
+  "ar": {
+   "t": "كيف تختارين المجوهرات المناسبة لإطلالتك",
+   "d": "اختاري القطعة حسب المناسبة: الرقيقة للنهار والمرصعة للسهرات، ولا تجمعي أكثر من قطعة بارزة."
+  },
+  "fr": {
+   "t": "Choisir le bijou idéal pour votre allure",
+   "d": "Choisissez selon l'occasion : pièces fines le jour, serties le soir, et une seule pièce statement à la fois."
+  },
+  "en": {
+   "t": "How to choose jewelry for your look",
+   "d": "Pick by occasion: delicate pieces for day, jeweled for evening, and only one statement piece at a time."
+  }
+ },
+ {
+  "id": "3",
+  "date": "2026-11-01",
+  "ar": {
+   "t": "مطبخ أنيق وعملي بميزانية معقولة",
+   "d": "استثمري في أواني أساسية بجودة جيدة ونظمي الأدوات حسب الاستعمال. التفاصيل الصغيرة تصنع الفرق."
+  },
+  "fr": {
+   "t": "Une cuisine élégante et pratique",
+   "d": "Investissez dans des ustensiles essentiels de qualité et organisez-les selon l'usage. Les petits détails font la différence."
+  },
+  "en": {
+   "t": "An elegant, practical kitchen",
+   "d": "Invest in quality essentials and organize tools by use. Small details make the difference."
+  }
+ }
+]
