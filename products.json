@@ -1,0 +1,132 @@
+[
+ {
+  "n": [
+   "سيروم فيتامين C للإشراق",
+   "Sérum Vitamine C éclat",
+   "Vitamin C Glow Serum"
+  ],
+  "c": "beauty",
+  "p": 189,
+  "e": "🧴",
+  "k": "#FBE3DC",
+  "l": "https://example.com/a1",
+  "id": "p1"
+ },
+ {
+  "n": [
+   "باليت مكياج فاخر",
+   "Palette maquillage luxe",
+   "Luxury Makeup Palette"
+  ],
+  "c": "beauty",
+  "p": 249,
+  "e": "🎨",
+  "k": "#F3DDE6",
+  "l": "https://example.com/a2",
+  "id": "p2"
+ },
+ {
+  "n": [
+   "عطر نسائي أنيق",
+   "Parfum femme élégant",
+   "Elegant Women's Perfume"
+  ],
+  "c": "beauty",
+  "p": 329,
+  "e": "🌸",
+  "k": "#EFE0F5",
+  "l": "https://example.com/a3",
+  "id": "p3"
+ },
+ {
+  "n": [
+   "كريم ترطيب عميق",
+   "Crème hydratation intense",
+   "Deep Moisture Cream"
+  ],
+  "c": "care",
+  "p": 129,
+  "e": "🫧",
+  "k": "#E3EFEA",
+  "l": "https://example.com/a4",
+  "id": "p4"
+ },
+ {
+  "n": [
+   "زيت الأرغان الخالص",
+   "Huile d'argan pure",
+   "Pure Argan Oil"
+  ],
+  "c": "care",
+  "p": 99,
+  "e": "💧",
+  "k": "#F7EBCF",
+  "l": "https://example.com/a5",
+  "id": "p5"
+ },
+ {
+  "n": [
+   "مجموعة أواني طهي راقية",
+   "Batterie de cuisine raffinée",
+   "Fine Cookware Set"
+  ],
+  "c": "kitchen",
+  "p": 599,
+  "e": "🍳",
+  "k": "#EADFD6",
+  "l": "https://example.com/a6",
+  "id": "p6"
+ },
+ {
+  "n": [
+   "طقم فناجين قهوة",
+   "Service à café",
+   "Coffee Cup Set"
+  ],
+  "c": "kitchen",
+  "p": 219,
+  "e": "☕",
+  "k": "#F3E3E0",
+  "l": "https://example.com/a7",
+  "id": "p7"
+ },
+ {
+  "n": [
+   "عقد ذهبي رقيق",
+   "Collier doré délicat",
+   "Delicate Gold Necklace"
+  ],
+  "c": "jewelry",
+  "p": 459,
+  "e": "📿",
+  "k": "#F7EBCF",
+  "l": "https://example.com/a8",
+  "id": "p8"
+ },
+ {
+  "n": [
+   "سوار مرصّع",
+   "Bracelet serti",
+   "Jeweled Bracelet"
+  ],
+  "c": "jewelry",
+  "p": 389,
+  "e": "💎",
+  "k": "#EFE0F5",
+  "l": "https://example.com/a9",
+  "id": "p9"
+ },
+ {
+  "n": [
+   "أقراط لؤلؤ طبيعي",
+   "Boucles d'oreilles perles",
+   "Natural Pearl Earrings"
+  ],
+  "c": "jewelry",
+  "p": 279,
+  "e": "✨",
+  "k": "#FBE3DC",
+  "l": "https://example.com/a10",
+  "id": "p10"
+ }
+]
